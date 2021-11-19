@@ -8,8 +8,16 @@ body {
   color: #5a5a5a;
 }
 
-#myCarousel{
-  background-image: url(../assets/fundo_4.jpg);
+.color-black-letter{
+  color: black;
+}
+
+.titulo-carousel{
+  font-weight: 900;
+}
+
+.paragrafo-carousel{
+  font-weight: bold;
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -18,6 +26,11 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+}
+
+#myCarousel{
+  background-image: url(../assets/fundo_4.jpg);
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
