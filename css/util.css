@@ -1,0 +1,16 @@
+.titulo-ano{
+    font-size: 71px;
+    color: black;
+}
+
+.text-negrito{
+    font-weight: bolder;
+}
+
+.text-color-black{
+    color: black;
+}
+
+.subtitulo-experiencia{
+    display: inline;
+}
