@@ -14,3 +14,22 @@
 .subtitulo-experiencia{
     display: inline;
 }
+
+#no-margin-button{
+    margin-bottom: 0 !important;
+}
+
+.caixa-experiencia-detalhes:hover{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:
+    1px 1px #2a2a76,
+    2px 2px #2a2a76,
+    3px 3px #2a2a76;
+-webkit-transform: translateX(-3px);
+transform: translateX(-3px);
+}
+
+#tamanho-logo-ciandt{
+    width: 17% !important;
+}
