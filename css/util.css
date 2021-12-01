@@ -33,3 +33,21 @@ transform: translateX(-3px);
 #tamanho-logo-ciandt{
     width: 17% !important;
 }
+
+.img-transicao-preto-branco{
+
+    transition: .3s;
+
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray;
+}
+
+#caixa-espacamento-baixo{
+    margin-bottom: 50px;
+}
+
+.img-transicao-preto-branco:hover{
+    -webkit-filter: none;	
+	filter: none;	
+}
