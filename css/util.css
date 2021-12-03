@@ -3,6 +3,19 @@
     color: black;
 }
 
+#myCarousel {
+    margin-bottom: 0px !important;
+}
+
+.status-projeto-feito{
+    padding: 3px;
+    font-weight: bolder;
+    background-color: #00AC2F;
+    color: white;
+    border-radius: 10px;
+    text-align: center ;
+}
+
 .text-negrito{
     font-weight: bolder;
 }
@@ -12,7 +25,7 @@
 }
 
 .subtitulo-experiencia{
-    display: inline;
+    display: inline !important;
 }
 
 #no-margin-button{
